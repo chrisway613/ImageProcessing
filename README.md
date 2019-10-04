@@ -18,7 +18,8 @@
 ### -<font color="#FFD700">Vertical</font>
 
 
-# Run
+# Run <br>
+
 - *_Os_* <br>
 &emsp;**_Linux, Windows, Mac_** <br>
 - *_Software_* <br>
@@ -28,7 +29,3 @@
 &emsp; &emsp; **_git clone git@github.com:chrisway613/ImageProcessing.git_** <br>
 &emsp; then switch to the directory of project and run jupyter notebook: <br>
 &emsp; &emsp; **_jupyter notebook_** <br>
-
-```python
-
-```
